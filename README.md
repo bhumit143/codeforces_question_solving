@@ -6,35 +6,92 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 16 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [sortings](#sortings) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (4)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (10)
+- [math](#math) (5)
+- [probabilities](#probabilities) (1)
+- [sortings](#sortings) (2)
+- [strings](#strings) (4)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/bhumit143/codeforces_question_solving/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ---
 
